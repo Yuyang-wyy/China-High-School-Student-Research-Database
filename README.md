@@ -12,7 +12,7 @@ Engineering
 Computer Science
 Social Science
 
-Purpose
+Purpose: 
 Our goal is to provide research beginners with full access to past projects, breaking down barriers in high school research. We believe that sharing knowledge and resources is crucial for fostering innovation and learning.
 
 Contribute
